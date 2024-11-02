@@ -25,5 +25,5 @@ class Main {
         this.variable_g = Symbol();                         // symbol
         this.variable_h = [1, 2, 3];                        //
         this.variable_i = {'key1' : 1, 'key2' : 2};         //
-    }
+    } 
 }
